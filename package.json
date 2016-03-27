@@ -1,0 +1,26 @@
+{
+  "name": "apiauth",
+  "version": "1.0.0",
+  "description": "node js login with api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "auth",
+    "with",
+    "external",
+    "api",
+    "e.g:",
+    "aMember"
+  ],
+  "author": "Rahmat Aligos",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jsonwebtoken": "^5.7.0",
+    "mongoose": "^4.4.10",
+    "morgan": "^1.7.0"
+  }
+}
